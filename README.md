@@ -1,1 +1,1 @@
-# Customer-Segmentation-using-Means
+# Customer-Segmentation-using-KMeans
